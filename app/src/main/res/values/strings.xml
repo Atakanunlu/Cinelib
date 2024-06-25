@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CineLibbb</string>
+    <string name="popular">POPULER</string>
+    <string name="upcoming">GELECEK</string>
+    <string name="popular_movies">Popüler Filmler</string>
+    <string name="upcoming_movies">Gelecek Filmler</string>
+    <string name="language">"Dil: "</string>
+    <string name="release_date">"Vizyon Tarihi: "</string>
+    <string name="votes">"Kullanılan Oy: "</string>
+    <string name="overview">Açıklama:</string>
+    <string name="search">BUL</string>
+    <string name="watchlist">İZLE</string>
+    <string name="actors">Aktör:</string>
+    <string name="imdb_rating">IMDB Puanı:</string>
+
+</resources>
